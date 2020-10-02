@@ -192,7 +192,7 @@ main {
         padding:0;
     }
 .taiga-bg {
-    background: url("C:/Users/Connor/Desktop/Taiga/forest-bg.jpg") no-repeat left top;
+    background: url("/forest-bg.jpg") no-repeat left top;
     background-size: cover;
     height: 115vh;
 }
@@ -206,7 +206,7 @@ main {
     padding-right: 0;
 }
 .taiga-bg {
-    background: url("C:/Users/Connor/Desktop/Taiga/forest-bg.jpg") no-repeat left top;
+    background: url("/forest-bg.jpg") no-repeat left top;
     background-size: cover;
     height: 115vh;
     overflow: inherit;

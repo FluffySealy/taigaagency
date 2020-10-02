@@ -1,0 +1,434 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics GOES HERE -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="robots" content="index, follow">
+  <meta property="og:image" content="logo.png" />
+  <meta property="og:title" content="Taiga Agency | Web Solutions Agency" />
+  <meta property="og:description"
+    content="We provide quality web development &amp; digital marketing services for small to medium sized businesses, providing innovative and creative changes to your company, improving sales and online presence." />
+  <title>Taiga Agency</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,900;1,400&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+  <link href="logo.png" rel="shortcut icon" type="image/x-icon" />
+
+  <title>Taiga Agency</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="C:\Users\Connor\Desktop\Taiga\css\styles.css">
+</head>
+
+<body>
+  <header class="nav-section">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark transparent fixed-top">
+      <div class="container-fluid mw-100">
+        <a class="navbar-brand" href="/">Taiga</a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar"
+          aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link" href="/services.html">Services</a><img
+                src="C:\Users\Connor\Desktop\Taiga\assets\share.svg"></li>
+            <li class="nav-item"><a class="nav-link" href="/work.html">Our Work</a><img
+                src="C:\Users\Connor\Desktop\Taiga\assets\computer.svg"></li>
+            <li class="nav-item"><a class="nav-link" href="/about.html">About Us</a><img
+                src="C:\Users\Connor\Desktop\Taiga\assets\glasses.svg"></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <section class="parallax-container jumbotron d-flex flex-column justify-content-center taiga-bg">
+    <div alt="layer-2" class="floating-leaf rellax p-layer-2" data-rellax-speed="-4"><img
+        src="C:\Users\Connor\Desktop\Taiga\assets\leaflarge.svg"></div>
+    <div alt="layer-3" class="floating-leaf rellax p-layer-3" data-rellax-speed="-2"><img
+        src="C:\Users\Connor\Desktop\Taiga\assets\leaflarge.svg"></div>
+    <div alt="layer-4" class="floating-leaf rellax p-layer-4" data-rellax-speed="-2"><img
+        src="C:\Users\Connor\Desktop\Taiga\assets\leaflarge.svg"></div>
+    <div alt="layer-5" class="floating-leaf rellax p-layer-5" data-rellax-speed="-2"><img
+        src="C:\Users\Connor\Desktop\Taiga\assets\leaflarge.svg"></div>
+    <div alt="layer-1" class="event-box info-box bg-primary d-flex flex-wrap rellax p-layer-1" data-rellax-speed="4">
+      <div class="section info-panel">
+        <div class="info-panel-section">
+          <div class="info-ico"><img src="C:\Users\Connor\Desktop\Taiga\assets\clipboard.svg"></div>
+          <div class="info-content">
+            <h2 class="text-white">Simple solutions</h2>
+            <p class="text-white my-1 show-mobile">We with our clients and our team to make sure we can provide a smooth
+              service.</p>
+          </div>
+        </div>
+        <div class="info-panel-section">
+          <div class="info-ico">
+            <img src="C:\Users\Connor\Desktop\Taiga\assets\services.svg"></div>
+          <div class="info-content">
+            <h2 class="text-white">Affordable development</h2>
+            <p class="text-white my-1 show-mobile">We pride ourselves in providing honest and competitive prices,
+              meaning you can get your shining solution for less.</p>
+          </div>
+        </div>
+        <div class="info-panel-section">
+          <div class="info-ico"> <img src="C:\Users\Connor\Desktop\Taiga\assets\support.svg"></div>
+          <div class="info-content">
+            <h2 class="text-white">Great Support</h2>
+            <p class="text-white my-1 show-mobile">We will support you the whole way, no matter how simple or difficult
+              the task.</p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+    </div>
+    <div class="container-fluid mb-10">
+      <div class="row py-5 justify-content-md-between">
+        <div class="col-12 col-md-8">
+          <div class="hero-box sub-page-hero">
+
+            <h1 class="display-4">Affordable development solutions</h1>
+            <p class="text-white my-3 show-mobile">we provide quality web development &amp; digital marketing services
+              for small to medium sized
+              businesses, providing innovative and creative changes to your company to improving sales and online
+              presence.</p>
+
+            <a href="/events/world-wrap-masters-europe-2021" class="btn btn-primary btn-lg" tabindex="0">Work with
+              us</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="py-5">
+    <div class="container-fluid">
+
+      <div class="row justify-content-center text-center py-2 pb-5 py-lg-5">
+        <div class="col-12 col-md-8 col-lg-7">
+          <h1 class="text-secondary">OUR SERVICES</h1>
+          <div class="pt-2">
+            <p>We provide a multitude of services, giving you everything you need to get your business online</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 justify-content-center text-center">
+        <div class="col-12 col-md-3 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4">WEB DEVELOPMENT</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\development.svg">
+            <div class="small pt-2 px-3">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-3 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4">DIGITAL MARKETING</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\marketing.svg">
+            <div class="small pt-2 px-3">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-3 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4">ANALYTICS</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\analytics.svg">
+            <div class="small pt-2 px-3">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco labor</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-3 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4">BRAND</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\brand.svg">
+            <div class="small pt-2 px-3">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="py-5 bg-primary">
+    <div class="container-fluid">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 justify-content-center">
+        <div class="col-md-12 col-lg-8 mb-4 px-2">
+          <div class="h-100">
+            <h1 class="px-2 mb-4 text-white">Competitive prices</h1>
+            <h2 class="h5 pt-2 px-3 text-white"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            </h2>
+            <h2 class="h5 pt-2 px-3 text-white"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            </h2>
+          </div>
+        </div>
+        <div class="col-md-12 order-first order-lg-0 col-lg-4 mb-4 px-2 d-center">
+            <div data-w-id="37606a24-3967-8917-0012-5762fb0fe12f" data-animation-type="lottie" data-src="https://uploads-ssl.webflow.com/5dd3495558fd7f3d1fcb52bc/5e7b212bc2dd15eeadb12f9c_Blogging%20Colored.json" data-loop="0" data-direction="1" data-autoplay="0" data-is-ix2-target="1" data-renderer="svg" data-default-duration="8" data-duration="8" class="lottie-animation-5 security lab">
+            <img src="C:\Users\Connor\Desktop\Taiga\assets\money.svg">
+            </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="py-5 ">
+    <div class="container-fluid">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 justify-content-center">
+        <div class="col-md-12 col-lg-4 mb-4 px-2 d-center">
+            <div data-w-id="37606a24-3967-8917-0012-5762fb0fe12f" data-animation-type="lottie" data-src="https://uploads-ssl.webflow.com/5dd3495558fd7f3d1fcb52bc/5e7b212bc2dd15eeadb12f9c_Blogging%20Colored.json" data-loop="0" data-direction="1" data-autoplay="0" data-is-ix2-target="1" data-renderer="svg" data-default-duration="8" data-duration="8" class="lottie-animation-5 security lab">
+            <img src="C:\Users\Connor\Desktop\Taiga\assets\webdesign.svg">
+            </div>
+        </div><div class="col-md-12 col-lg-8 mb-4 px-2">
+          <div class="h-100">
+            <h1 class="px-2 mb-4">Custom Development</h1>
+            <h2 class="h5 pt-2 px-3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            </h2>
+            <h2 class="h5 pt-2 px-3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+            </h2>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+  <section class="py-5 bg-primary">
+    <div class="container-fluid">
+
+      <div class="row justify-content-center text-center py-2 pb-5 py-lg-5">
+        <div class="col-12 col-md-8 col-lg-7">
+          <h1 class="text-white">OUR PROCESS</h1>
+          <div class="pt-2">
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 justify-content-center text-center">
+        
+        
+        
+        
+      <div class="col-12 col-md-6 mb-4 px-2 text-center text-md-left">
+          <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+            <img class="mb-4 mw-100 service-icon d-inline-block pr-2" src="C:\Users\Connor\Desktop\Taiga\assets\no1.svg">
+            <h3 class="px-2 mb-4 text-white w-100 w-md-25">Your needs for your business</h3>
+            <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-70">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div><div class="col-12 col-md-6 mb-4 px-2 text-center text-md-left">
+          <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+            <img class="mb-4 mw-100 service-icon d-inline-block pr-2" src="C:\Users\Connor\Desktop\Taiga\assets\no2.svg">
+            <h3 class="px-2 mb-4 text-white w-100 w-md-25">Your needs for your business</h3>
+            <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-70">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div>
+        
+      <div class="col-12 col-md-6 mb-4 px-2 text-center text-md-left">
+          <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+            <img class="mb-4 mw-100 service-icon d-inline-block pr-2" src="C:\Users\Connor\Desktop\Taiga\assets\no3.svg">
+            <h3 class="px-2 mb-4 text-white w-100 w-md-25">Your needs for your business</h3>
+            <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-70">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div><div class="col-12 col-md-6 mb-4 px-2 text-center text-md-left">
+          <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+            <img class="mb-4 mw-100 service-icon d-inline-bloc pr-2" src="C:\Users\Connor\Desktop\Taiga\assets\no4.svg">
+            <h3 class="px-2 mb-4 text-white w-100 w-md-25">Your needs for your business</h3>
+            <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-70">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div></div>
+    </div>
+  </section>
+  <section class="py-5 bg-primary d-none">
+    <div class="container-fluid">
+
+      <div class="row justify-content-center text-center py-2 pb-5 py-lg-5">
+        <div class="col-12 col-md-8 col-lg-7">
+          <h1 class="text-white">OUR PROCESS</h1>
+          <div class="pt-2">
+
+          </div>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 justify-content-center">
+        <div class="col-12 col-md-12 mb-4 px-2 text-center text-md-left">
+        <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+          <img class="mb-4 mw-100 service-icon d-inline-block" src="C:\Users\Connor\Desktop\Taiga\assets\no1.svg">
+          <h3 class="px-5 text-white w-100 w-md-25">Your Requirements for the business</h3>
+          <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-50">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-12 mb-4 px-2 text-center text-md-left flex-wrap flex-md-nowrap">
+        <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+          <img class="mb-4 mw-100 service-icon d-inline-block" src="C:\Users\Connor\Desktop\Taiga\assets\no2.svg">
+          <h3 class="px-5 text-white w-100 w-md-25">Your Requirements for the business</h3>
+          <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-50">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-12 mb-4 px-2 text-center text-md-left">
+        <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+          <img class="mb-4 mw-100 service-icon d-inline-block" src="C:\Users\Connor\Desktop\Taiga\assets\no3.svg">
+          <h3 class="px-5 text-white w-100 w-md-25">Your Requirements for the business</h3>
+          <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-50">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-md-12 mb-4 px-2 text-center text-md-left">
+        <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+          <img class="mb-4 mw-100 service-icon d-inline-block" src="C:\Users\Connor\Desktop\Taiga\assets\no4.svg">
+          <h3 class="px-5 text-white w-100 w-md-25">Your Requirements for the business</h3>
+          <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-50">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+              dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </section>
+  <section class="py-5 bg-primary d-none">
+    <div class="container-fluid">
+
+      <div class="row justify-content-center text-center py-2 pb-5 py-lg-5">
+        <div class="col-12 col-md-8 col-lg-7">
+          <h1 class="text-white">OUR PROCESS</h1>
+          <div class="pt-2">
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 justify-content-center text-center">
+        <div class="col-12 col-md-6 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4 text-white">Your Requirements for the business</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\no1.svg">
+            <div class="pt-2 px-3 text-white">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div>
+        
+        
+        
+      <div class="col-12 col-md-6 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4 text-white">Your Requirements for the business</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\no2.svg">
+            <div class="pt-2 px-3 text-white">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div><div class="col-12 col-md-6 mb-4 px-2">
+          <div class="h-100">
+            <h3 class="px-2 mb-4 text-white">Your Requirements for the business</h3>
+            <img class="mb-4 mw-100 w-50 service-icon" src="C:\Users\Connor\Desktop\Taiga\assets\no3.svg">
+            <div class="pt-2 px-3 text-white">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div><div class="col-12 col-md-6 mb-4 px-2 text-center text-md-left">
+          <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+            <img class="mb-4 mw-100 service-icon d-inline-block" src="C:\Users\Connor\Desktop\Taiga\assets\no4.svg">
+            <h3 class="px-2 mb-4 text-white w-100 w-md-25">Your Requirements for the business</h3>
+            <div class="pt-2 px-3 text-white ">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-12 mb-4 px-2 text-center text-md-left">
+          <div class="h-100 d-flex justify-content-center flex-wrap flex-md-nowrap">
+            <img class="mb-4 mw-100 service-icon d-inline-block" src="C:\Users\Connor\Desktop\Taiga\assets\no1.svg">
+            <h3 class="px-5 text-white w-100 w-md-25">Your Requirements for the business</h3>
+            <div class="pt-2 px-3 text-white d-inline-block w-100 w-md-50">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer id="footer" class="bg-dark section relative border-top border-white">
+    <div class="section-padding relative">
+      <div class="container-fluid">
+        <nav role="navigation">
+          <div class="row border-white pb-2">
+            <div class="col-md-5 text-center">
+              <h5 class="mb-2 mb-md-4 text-white">Contact us</h5>
+            </div>
+            <div class="col-md-2 skiptranslate">
+              <div class="row">
+                <div class="col-lg-12 text-center justify-content-center mt-5 mt-sm-0">
+                  <a alt="" href="https://linkedin.com/"><img class="mb-4 mw-100 w-25"
+                      src="C:\Users\Connor\Desktop\Taiga\assets\linkedin.svg"></a> <a alt=""
+                    href="phone:07544555444"><img class="mb-4 mw-100 w-25"
+                      src="C:\Users\Connor\Desktop\Taiga\assets\whatsapp.svg"></a> <a alt="" href="email"><img
+                      class="mb-4 mw-100 w-25" src="C:\Users\Connor\Desktop\Taiga\assets\email.svg"></a></div>
+              </div>
+            </div>
+            <div class="col-md-5 text-center">
+              <h5 class="mb-2 mb-md-4 text-white">Our team</h5>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </footer>
+
+  <!-- JS, Popper.js, and jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/rellax/1.9.1/rellax.min.js"></script>
+  <script src="C:\Users\Connor\Desktop\Taiga\scripts\scripts.js"></script>
+
+</body>
+
+</html>
